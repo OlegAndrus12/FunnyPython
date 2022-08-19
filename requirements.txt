@@ -1,0 +1,9 @@
+python-telegram-bot
+python-dotenv
+freegames
+art
+antigravity
+emoji
+Pyjokes
+faker
+pillow
