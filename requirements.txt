@@ -3,6 +3,7 @@ python-dotenv
 freegames
 art
 antigravity
+tk
 emoji
 Pyjokes
 faker

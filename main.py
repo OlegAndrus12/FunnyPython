@@ -1,10 +1,7 @@
-from asyncio.log import logger
-from venv import create
-from telegram import ParseMode
 from faker import Faker
 import pyjokes
 from art import text2art
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
 
 from telegram import Bot
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
